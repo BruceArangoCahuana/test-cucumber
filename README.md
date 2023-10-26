@@ -1,2 +1,2 @@
 # test-cucumber
-# test para cineplanet Backend y front
+test para cineplanet Backend y front
