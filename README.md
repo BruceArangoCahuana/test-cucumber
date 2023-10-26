@@ -14,3 +14,7 @@ Install test-cucumber with npm
 To getstart this project run
 ```bash
   npm run test
+```
+## Tech Stack
+**Client:** Javascipt, Cucumber, Feature
+
